@@ -5,4 +5,5 @@ langchain-experimental
 langchain-community
 langchain-groq
 duckduckgo-search
+ddgs
 matplotlib
