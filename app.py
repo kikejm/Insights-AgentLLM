@@ -8,7 +8,7 @@ from langchain_groq import ChatGroq
 
 st.set_page_config(page_title="Data Pro Agent", layout="wide")
 
-st.title("📊 Agente de Análisis de Datos Pro")
+st.title("📊 Agente de Análisis de Datos")
 
 with st.expander("Guía de Uso", expanded=True):
     st.info("Este agente analiza tus CSV, genera gráficos y busca en internet si necesitas contexto adicional. Sube un archivo, introduce tu API Key y empieza a preguntar.")
