@@ -1,8 +1,8 @@
 streamlit
 pandas
-matplotlib
 langchain
 langchain-experimental
+langchain-community
 langchain-groq
-langchain-google-genai
-tabulate
+duckduckgo-search
+matplotlib
